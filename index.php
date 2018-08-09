@@ -3,6 +3,6 @@
   <title>兄弟 你能支持中文吗？？</title>
   </head>
  <body>
- <?php echo '<p>hi body</p>'; ?>
+ <?php echo '<p>o  fuck you</p>'; ?>
  </body>
 </html>
