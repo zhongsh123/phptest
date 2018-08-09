@@ -6,7 +6,3 @@ fuck you
 you
 you 
 know 
-i 
-dont 
-do anal
-£¿
